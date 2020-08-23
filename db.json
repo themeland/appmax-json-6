@@ -6,25 +6,25 @@
         "widgetData_1": [
             {
                 "id": 1,
-                "image": "/img/avatar_1.png",
+                "image": "/img/avatar_1.jpg",
                 "date": "05 Feb, 2018",
                 "title": "Promote Your Apps With AppMax"
             },
             {
                 "id": 2,
-                "image": "/img/avatar_2.png",
+                "image": "/img/avatar_2.jpg",
                 "date": "09 Apr, 2018",
                 "title": "Sell Your Product Like Never Before"
             },
             {
                 "id": 3,
-                "image": "/img/avatar_3.png",
+                "image": "/img/avatar_3.jpg",
                 "date": "13 Jul, 2018",
                 "title": "Built For Passionate People"
             },
             {
                 "id": 4,
-                "image": "/img/avatar_4.png",
+                "image": "/img/avatar_4.jpg",
                 "date": "03 Oct, 2018",
                 "title": "Get Unlimited Offers & Plans"
             }
@@ -126,7 +126,7 @@
         "text_4": "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment.",
         "quoteText_1": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing.",
         "quoteText_2": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.",
-        "adminImage": "/img/avatar_1.png",
+        "adminImage": "/img/avatar_1.jpg",
         "admin": "Anna Swford",
         "adminText": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock Virginia.",
         "commentsTitle": "Recent Comments",
@@ -152,7 +152,7 @@
         "commentsData": [
             {
                 "id": 1,
-                "commentsImage": "/img/avatar_2.png",
+                "commentsImage": "/img/avatar_2.jpg",
                 "commentsAuthor": "Junaid Hasan",
                 "replyText": "Reply",
                 "commentsText_1": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.",
@@ -160,7 +160,7 @@
             },
             {
                 "id": 2,
-                "commentsImage": "/img/avatar_3.png",
+                "commentsImage": "/img/avatar_3.jpg",
                 "commentsAuthor": "Jassica William",
                 "replyText": "Reply",
                 "commentsText_1": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
